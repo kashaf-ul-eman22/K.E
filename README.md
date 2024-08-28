@@ -1,3 +1,3 @@
 # K.E
-This is my first repo. /n
+This is my first repo. 
 I'm very excited.
